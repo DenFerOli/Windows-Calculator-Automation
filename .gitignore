@@ -1,0 +1,9 @@
+# Ignore SikuliX JAR files in the project directory
+
+sikulix*.jar
+
+# Ignore build and distribution directories
+
+build/
+dist/
+*.spec
